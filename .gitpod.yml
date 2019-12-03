@@ -1,6 +1,8 @@
 image:
   file: Dockerfile
 
-
+tasks:
+  - command: >
+      /bin/sh -c exec\ /app/Jackett/jackett\ --NoUpdates\ -p\ \$PORT
 ports:
  - port: 9117
