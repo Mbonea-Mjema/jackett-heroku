@@ -1,2 +1,6 @@
 image:
   file: Dockerfile
+
+
+ports:
+ - port: 9117
