@@ -1,5 +1,6 @@
 # Jackett hosted on Heroku container
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Instructions
 Clone this repo in your machine, and use those coomands after install de [Heroku CLI](https://devcenter.heroku.com/articles/heroku-cli)
